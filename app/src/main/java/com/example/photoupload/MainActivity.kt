@@ -105,4 +105,19 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+   /* https://dev.api.litmethod.com/app/action.php
+
+
+    {
+        "action": "signIn",
+        "email": "parthibbiswas107@gmail.com",
+        "password": "qwerty",
+        "FCMToken": "jhgdhfjukujyhtrdfuytetjuyjhetsdhf",
+        "OSType": "iOS"
+    }*/
+
+
+
+
+
 }
